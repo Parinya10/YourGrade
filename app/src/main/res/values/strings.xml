@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your Grade</string>
+    <string name="what_label">What\'s Your Grade</string>
+    <string name="enter_label">Enter your name and score</string>
+    <string name="name_label">name</string>
+    <string name="score_label">score</string>
+    <string name="fine_label">FIND GRADE</string>
+    <string name="exit_label">EXIT</string>
+
+
+</resources>
